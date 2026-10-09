@@ -1,0 +1,2 @@
+# Mailmind-Ai
+MailMind ai
